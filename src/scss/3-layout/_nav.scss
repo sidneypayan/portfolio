@@ -1,0 +1,22 @@
+.nav {
+	justify-content: space-around;
+	padding: 2rem;
+	display: flex;
+}
+
+.nav__logo {
+	width: 35px;
+}
+
+.nav__menu {
+	display: flex;
+}
+
+.nav__menu li {
+	margin-right: 1rem;
+}
+
+.nav__menu a {
+	color: #fff;
+	text-decoration: none;
+}
