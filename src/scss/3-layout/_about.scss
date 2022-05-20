@@ -1,0 +1,33 @@
+.about {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10rem !important;
+}
+
+.about__img {
+	width: 250px;
+
+	img {
+		border-radius: 1.5rem;
+	}
+}
+
+.about__text {
+	margin-top: 5rem;
+	font-family: Inconsolata, monospace;
+	line-height: 1.5rem;
+	width: 600px;
+	height: 280px;
+	background-color: #4a4e69;
+	border-radius: 0.5rem;
+	padding: 2rem;
+}
+
+.about__function {
+	color: #50d94c;
+	display: block;
+}
+
+.about__return {
+	color: #d4e09b;
+}

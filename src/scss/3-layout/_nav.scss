@@ -1,11 +1,14 @@
 .nav {
-	justify-content: space-around;
+	width: 85%;
+	margin: auto;
+	justify-content: space-between;
 	padding: 2rem;
 	display: flex;
+	font-size: 1.2rem;
 }
 
 .nav__logo {
-	width: 35px;
+	width: 40px;
 }
 
 .nav__menu {

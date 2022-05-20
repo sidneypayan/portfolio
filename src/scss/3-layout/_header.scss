@@ -6,10 +6,12 @@
 	padding: 0 4rem;
 }
 
-.header__title {
-	font-size: 2rem;
-	line-height: 5.5rem;
+.header__title-container {
 	width: 45%;
+}
+
+.header__title {
+	font-size: 4rem;
 	text-align: right;
 }
 

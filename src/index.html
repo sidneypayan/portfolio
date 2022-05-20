@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./scss/main.scss">
   <title>Portfolio - Sidney Payan</title>
+  <script src="./js/main.js" type="module"></script>
 </head>
 
 <body>
@@ -18,14 +19,49 @@
       <li><a href="">Technologies</a></li>
     </ul>
   </nav>
+
   <header class="header">
-    <div class="header__title">
-      <h1>Bonjour, moi c'est Sidney Développeur web junior J'aime apprendre, créer, participer</h1>
+    <div class="header__title-container">
+      <h1 class="header__title">Bonjour, moi c'est Sidney Développeur web junior J'aime apprendre, créer, participer
+      </h1>
     </div>
     <div class="header__img">
 
     </div>
   </header>
+
+  <div class="hr"></div>
+  <section class="section section--md about">
+
+
+    <div class="about__img">
+      <img src="./images/portrait.jpg" alt="portrait">
+    </div>
+
+    <div class="about__text"><span class="about__function">function aboutMe() {</span>
+      <span class="about__return">return</span>
+      <span id="about"></span>
+
+      <span class="about__function">}</span>
+    </div>
+  </section>
+
+  <h2 class="headline">Techno</h2>
+
+  <section class="section section--md technos">
+    <div class="technos__item">
+      <img src="./images/react.jpg" alt="">
+    </div>
+    <div class="technos__item">
+      <img src="./images/typescript.jpg" alt="">
+    </div>
+    <div class="technos__item">
+      <img src="./images/git.jpg" alt="">
+    </div>
+    <div class="technos__item">
+      <img src="./images/sass.jpg" alt="">
+    </div>
+  </section>
 </body>
 
 </html>
