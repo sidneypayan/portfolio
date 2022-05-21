@@ -3,75 +3,77 @@
 	justify-content: space-around;
 }
 
-.technos__item--1 {
+// REACT
+.technos__react {
+	margin-top: 1.6rem;
 	background-color: #fff;
-	display: inline-block;
-	height: 100px;
-	margin: 0 10px;
+	width: 80px;
+	height: 80px;
 	position: relative;
-	top: 0;
 	transform: rotate(-45deg);
-	width: 100px;
 }
 
-.technos__item--1 img {
-	position: absolute;
-	z-index: 1;
-	left: 2.25rem;
-	top: 0.75rem;
-	transition: transform 2s ease-in-out;
-}
-
-.technos__item--1 img:hover {
-	transform: rotate(405deg);
-}
-
-.technos__item--1:before,
-.technos__item--1:after {
+.technos__react:before,
+.technos__react:after {
 	content: '';
 	background-color: #fff;
 	border-radius: 50%;
-	height: 100px;
+	height: 80px;
 	position: absolute;
-	width: 100px;
+	width: 80px;
 }
 
-.technos__item--1:before {
-	top: -50px;
+.technos__react:before {
+	top: -35px;
 	left: 0;
 }
 
-.technos__item--1:after {
-	left: 50px;
+.technos__react:after {
+	left: 35px;
 	top: 0;
 }
 
-.technos__item--2 {
-	position: relative;
-	border-left: 80px solid transparent;
-	border-right: 80px solid transparent;
-	border-bottom: 140px solid #fff;
-}
-
-.technos__item--2 img {
+.technos__react img {
 	position: absolute;
-	top: 4rem;
-	left: -1.6rem;
-	min-width: 50px;
-	height: 50px;
-	transition: transform ease-in 1s;
+	z-index: 1;
+	left: 1.5rem;
+	top: 0.5rem;
+	transition: transform 100s ease-in-out;
 }
 
-.technos__item--2 img:hover {
-	transform: scale(1.1);
+.technos__react img:hover {
+	transform: rotate(40000deg);
 }
 
-.technos__item--3 {
-	margin-top: -5rem;
+// TYPESCRIPT
+.technos__typescript:hover {
+	border-radius: 50%;
 }
 
-.technos__item--3,
-.technos__item--4 {
+.technos__typescript img {
+	transition: transform 2s ease-in-out;
+}
+
+.technos__typescript img:hover {
+	transform: rotate(-45deg);
+}
+
+// SASS
+.technos__sass {
+	border-radius: 50%;
+}
+
+.technos__sass img {
+	transition: transform 2s ease-in-out;
+}
+
+.technos__sass img:hover {
+	transform: scale(1.2);
+}
+
+.technos__sass,
+.technos__git,
+.technos__typescript {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -82,22 +84,19 @@
 	transition: transform 2s ease-in-out, border-radius 2s ease-in-out;
 }
 
-.technos__item--3 {
+// GIT
+.technos__git {
 	border-radius: 1rem;
 	transform: rotate(45deg);
 }
-.technos__item--3,
-.technos__item--3 img {
+.technos__git,
+.technos__git img {
 	transition: transform 3s ease-in-out;
 }
-.technos__item--3:hover {
+.technos__git:hover {
 	transform: rotate(405deg);
 }
 
-.technos__item--3 img:hover {
+.technos__git img:hover {
 	transform: rotate(-405deg);
-}
-
-.technos__item--4:hover {
-	border-radius: 50%;
 }
