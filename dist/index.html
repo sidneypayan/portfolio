@@ -13,19 +13,19 @@
 
 <body>
 
-  <a href="#contact">
+  <!-- <a href="#contact">
     <div class="contact-icon-container">
       <i class="fa-regular fa-comment-dots"></i>
     </div>
-  </a>
+  </a> -->
 
 
   <nav class="nav">
     <img class="nav__logo" src="/logo.c493797d.png" alt="">
     <ul class="nav__menu">
-      <li><a href="">A propos</a></li>
-      <li><a href="">Réalisations</a></li>
-      <li><a href="">Technologies</a></li>
+      <li><a href="#about">A propos</a></li>
+      <li><a href="#technos">Technologies</a></li>
+      <li><a href="#projects">Réalisations</a></li>
     </ul>
 
     <!-- <div>
@@ -48,7 +48,7 @@
   </header>
 
   <div class="hr"></div>
-  <section class="section section--md about">
+  <section class="section section--md about" id="about">
 
     <div class="about__img">
       <img src="/portrait.98ca29cf.jpg" alt="portrait">
@@ -57,15 +57,15 @@
 
     <div class="about__text"><span class="about__function">function aboutMe() {</span>
       <span class="about__return">return</span>
-      <span id="about"></span>
+      <span id="aboutText"></span>
 
       <span class="about__function">}</span>
     </div>
   </section>
 
-  <h2 class="headline">Techno</h2>
+  <h2 class="headline">Technos</h2>
 
-  <section class="section section--md technos">
+  <section class="section section--md technos" id="technos">
     <div class="technos__item technos__react">
       <img src="/react.e50ee876.jpg" alt="">
     </div>
@@ -81,9 +81,9 @@
 
   </section>
 
-  <h2 class="headline">Projects</h2>
+  <h2 class="headline">Projets</h2>
 
-  <section class="section section--sm projects">
+  <section class="section section--sm projects" id="projects">
 
     <a href="https://linguami.com" target="_blank">
       <div class="projects__card"><img src="/linguami.a6774b3e.png" alt="linguami">

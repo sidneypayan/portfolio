@@ -53,7 +53,7 @@
 91D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-backdrop-filter.js132974432296631367 0
 88D:\webdev\My Sites\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\foo.js132974432286530593 0
 93D:\webdev\My Sites\portfolio\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map132974432286410493 0
-33D:\webdev\My Sites\portfolio\dist133024345226687650 1
+33D:\webdev\My Sites\portfolio\dist133024452552600797 1
 78D:\webdev\My Sites\portfolio\node_modules\@parcel\transformer-babel\lib\jsx.js132974432284187533 0
 39D:\webdev\My Sites\portfolio\.gitignore133023465898977784 0
 70D:\webdev\My Sites\portfolio\node_modules\posthtml-render\package.json132974432279423978 0
@@ -90,7 +90,7 @@
 61D:\webdev\My Sites\portfolio\node_modules\picocolors\types.ts132974432281872441 0
 59D:\webdev\My Sites\portfolio\node_modules\timsort\README.md132974432279313866 0
 63D:\webdev\My Sites\portfolio\node_modules\readdirp\package.json132974433344687632 0
-43D:\webdev\My Sites\portfolio\src\index.html133024344937349657 0
+43D:\webdev\My Sites\portfolio\src\index.html133024452551220102 0
 91D:\webdev\My Sites\portfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c132974432293432810 0
 67D:\webdev\My Sites\portfolio\node_modules\lmdb\prebuilds\darwin-x64132974432322710853 1
 64D:\webdev\My Sites\portfolio\node_modules\xxhash-wasm\LICENSE.md132974432282849155 0
@@ -173,9 +173,9 @@
 57D:\webdev\My Sites\portfolio\src\scss\3-layout\_form.scss133024344456552947 0
 73D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\regions\GD.js132974432320550380 0
 70D:\webdev\My Sites\portfolio\node_modules\nth-check\lib\parse.d.ts.map132974432282472407 0
-59D:\webdev\My Sites\portfolio\src\scss\3-layout\_header.scss133024319584517808 0
+59D:\webdev\My Sites\portfolio\src\scss\3-layout\_header.scss133024451047065072 0
 67D:\webdev\My Sites\portfolio\node_modules\type-fest\ts41\index.d.ts132974432285022827 0
-56D:\webdev\My Sites\portfolio\src\scss\3-layout\_nav.scss133024315231815081 0
+56D:\webdev\My Sites\portfolio\src\scss\3-layout\_nav.scss133024449802862246 0
 60D:\webdev\My Sites\portfolio\src\scss\3-layout\_section.scss133024338717136444 0
 97D:\webdev\My Sites\portfolio\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md132974432292372961 0
 67D:\webdev\My Sites\portfolio\node_modules\csso\lib\replace\index.js132974432290252801 0
@@ -238,7 +238,7 @@
 71D:\webdev\My Sites\portfolio\node_modules\posthtml-render\dist\index.js132974432279003585 0
 63D:\webdev\My Sites\portfolio\src\scss\1-helpers\_variables.scss132980574568216930 0
 87D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\x-doc-messaging.js132974432328129207 0
-45D:\webdev\My Sites\portfolio\src\js\_about.js132980490963246014 0
+45D:\webdev\My Sites\portfolio\src\js\_about.js133024451932839002 0
 54D:\webdev\My Sites\portfolio\src\images\budget-app.png133022574350973092 0
 94D:\webdev\My Sites\portfolio\node_modules\@swc\helpers\src\_class_private_field_destructure.js132974432295666687 0
 80D:\webdev\My Sites\portfolio\node_modules\@parcel\packager-js\lib\dev-prelude.js132974432279934438 0
@@ -3039,7 +3039,7 @@
 94D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-content-visibility.js132974432296821553 0
 68D:\webdev\My Sites\portfolio\node_modules\@parcel\workers\lib\bus.js132974432279904403 0
 84D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-counters.js132974432296841565 0
-44D:\webdev\My Sites\portfolio\dist\index.html133024344938250132 0
+44D:\webdev\My Sites\portfolio\dist\index.html133024452552580767 0
 91D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js132974432296911633 0
 90D:\webdev\My Sites\portfolio\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node132974432286290376 0
 83D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\ol-reversed.js132974432325822835 0
@@ -4290,10 +4290,10 @@
 60D:\webdev\My Sites\portfolio\dist\frenchappetit.379d5423.png133024328056684084 0
 50D:\webdev\My Sites\portfolio\dist\git.2158f024.jpg133024328056543978 0
 51D:\webdev\My Sites\portfolio\dist\hero.22dc911d.jpg133024328055693180 0
-51D:\webdev\My Sites\portfolio\dist\index.18dbc454.js133024328056573987 0
-55D:\webdev\My Sites\portfolio\dist\index.18dbc454.js.map133024328056594002 0
-52D:\webdev\My Sites\portfolio\dist\index.b10d73a7.css133024345226667624 0
-56D:\webdev\My Sites\portfolio\dist\index.b10d73a7.css.map133024345226667624 0
+51D:\webdev\My Sites\portfolio\dist\index.18dbc454.js133024451391825954 0
+55D:\webdev\My Sites\portfolio\dist\index.18dbc454.js.map133024451391835963 0
+52D:\webdev\My Sites\portfolio\dist\index.b10d73a7.css133024449749690454 0
+56D:\webdev\My Sites\portfolio\dist\index.b10d73a7.css.map133024449749690454 0
 55D:\webdev\My Sites\portfolio\dist\linguami.a6774b3e.png133024328056373816 0
 51D:\webdev\My Sites\portfolio\dist\logo.c493797d.png133024328056303741 0
 56D:\webdev\My Sites\portfolio\dist\movie-app.7f66d32e.png133024328056403832 0
