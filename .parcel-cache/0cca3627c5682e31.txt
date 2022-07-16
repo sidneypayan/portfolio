@@ -53,7 +53,7 @@
 91D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-backdrop-filter.js132974432296631367 0
 88D:\webdev\My Sites\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\foo.js132974432286530593 0
 93D:\webdev\My Sites\portfolio\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map132974432286410493 0
-33D:\webdev\My Sites\portfolio\dist133024457785200914 1
+33D:\webdev\My Sites\portfolio\dist133024460868824237 1
 78D:\webdev\My Sites\portfolio\node_modules\@parcel\transformer-babel\lib\jsx.js132974432284187533 0
 39D:\webdev\My Sites\portfolio\.gitignore133023465898977784 0
 70D:\webdev\My Sites\portfolio\node_modules\posthtml-render\package.json132974432279423978 0
@@ -90,7 +90,7 @@
 61D:\webdev\My Sites\portfolio\node_modules\picocolors\types.ts132974432281872441 0
 59D:\webdev\My Sites\portfolio\node_modules\timsort\README.md132974432279313866 0
 63D:\webdev\My Sites\portfolio\node_modules\readdirp\package.json132974433344687632 0
-43D:\webdev\My Sites\portfolio\src\index.html133024457087876377 0
+43D:\webdev\My Sites\portfolio\src\index.html133024460867722540 0
 91D:\webdev\My Sites\portfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c132974432293432810 0
 67D:\webdev\My Sites\portfolio\node_modules\lmdb\prebuilds\darwin-x64132974432322710853 1
 64D:\webdev\My Sites\portfolio\node_modules\xxhash-wasm\LICENSE.md132974432282849155 0
@@ -3039,7 +3039,7 @@
 94D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-content-visibility.js132974432296821553 0
 68D:\webdev\My Sites\portfolio\node_modules\@parcel\workers\lib\bus.js132974432279904403 0
 84D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-counters.js132974432296841565 0
-44D:\webdev\My Sites\portfolio\dist\index.html133024457088791711 0
+44D:\webdev\My Sites\portfolio\dist\index.html133024460868804221 0
 91D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js132974432296911633 0
 90D:\webdev\My Sites\portfolio\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node132974432286290376 0
 83D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\ol-reversed.js132974432325822835 0

@@ -146,16 +146,20 @@
   <h2 class="headline">Contact</h2>
 
   <section class="section section--md form" id="contact">
-    <form>
+    <form action="https://formsubmit.co/etreailleurs@hotmail.fr" method="POST">
       <div class="form__input">
         <label class="form__label">Nom / Entreprise</label>
-        <input type="text">
+        <input type="text" name="name" required="">
+      </div>
+      <div class="form__input">
+        <label class="form__label">Email</label>
+        <input type="email" name="email" required="">
       </div>
       <div class="form__input">
         <label class="form__label">Message</label>
         <textarea></textarea>
       </div>
-      <button>Envoyer</button>
+      <button type="submit">Envoyer</button>
     </form>
   </section>
 
