@@ -4,4 +4,8 @@
 	font-size: 3rem;
 	margin: 8rem;
 	color: #ff346d;
+
+	@media (max-width: 500px) {
+		margin: 4rem;
+	}
 }

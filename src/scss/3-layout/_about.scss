@@ -1,7 +1,16 @@
 .about {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: space-between;
 	margin-top: 10rem !important;
+
+	@media (max-width: 850px) {
+		justify-content: center;
+	}
+
+	@media (max-width: 822px) {
+		margin-top: 4rem !important;
+	}
 }
 
 .about__img {
@@ -35,10 +44,13 @@
 	font-family: Inconsolata, monospace;
 	line-height: 1.5rem;
 	width: 600px;
-	height: 280px;
 	background-color: #4a4e69;
 	border-radius: 0.5rem;
 	padding: 2rem;
+
+	@media (max-width: 989px) {
+		width: 500px;
+	}
 }
 
 .about__function {

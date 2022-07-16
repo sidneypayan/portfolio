@@ -5,10 +5,21 @@
 	padding: 2rem;
 	display: flex;
 	font-size: 1.2rem;
+
+	@media (max-width: 768px) {
+		width: 100%;
+		justify-content: center;
+		font-size: 1rem;
+		padding: 2rem 1rem;
+	}
 }
 
 .nav__logo {
 	width: 40px;
+
+	@media (max-width: 768px) {
+		display: none;
+	}
 }
 
 .nav__menu {

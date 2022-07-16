@@ -12,6 +12,14 @@
 </head>
 
 <body>
+
+  <a href="#contact">
+    <div class="contact-icon-container">
+      <i class="fa-regular fa-comment-dots"></i>
+    </div>
+  </a>
+
+
   <nav class="nav">
     <img class="nav__logo" src="/logo.c493797d.png" alt="">
     <ul class="nav__menu">
@@ -20,11 +28,11 @@
       <li><a href="">Technologies</a></li>
     </ul>
 
-    <div>
+    <!-- <div>
       <div class="theme">
         <div class="theme__btn"></div>
       </div>
-    </div>
+    </div> -->
 
   </nav>
 
@@ -44,7 +52,7 @@
 
     <div class="about__img">
       <img src="/portrait.98ca29cf.jpg" alt="portrait">
-      <button class="about__btn"><a href="mailto:sidney.payan@hotmail.com">Me contacter</a></button>
+      <!-- <button class="about__btn"><a href="mailto:sidney.payan@hotmail.com">Me contacter</a></button> -->
     </div>
 
     <div class="about__text"><span class="about__function">function aboutMe() {</span>
@@ -89,7 +97,7 @@
     <a href="https://startling-lily-96da81.netlify.app/" target="_blank">
       <div class="projects__card"><img src="/movie-app.7f66d32e.png" alt="movie app">
         <div class="projects__text">
-          Movie app React utilisant The Movie Database API. Recherche de film, suggestions par
+          React Movie app utilisant The Movie Database API. Recherche de film, suggestions par
           catégorie. L'app permet également d'ajouter des films aux sections films à voir ou déjà vus.
         </div>
       </div>
@@ -98,7 +106,7 @@
     <a href="https://benevolent-cucurucho-331814.netlify.app/" target="_blank">
       <div class="projects__card"><img src="/budget-app.722a9c2f.png" alt="budget app">
         <div class="projects__text">
-          Budget app React destinées aux travailleurs indépendants. Permet de calculer son revenu et ses dépenses
+          React Budget app destinées aux travailleurs indépendants. Permet de calculer son revenu et ses dépenses
           professionnelles et personnelles.
         </div>
       </div>
@@ -128,13 +136,28 @@
     <a href="https://chipper-florentine-b29fc2.netlify.app/" target="_blank">
       <div class="projects__card"><img src="/quizz-app.8aacfd91.png" alt="quizz app">
         <div class="projects__text">
-          Quizz app utilisant l'API Open Trivia DB. Permet d'apprendre en s'amusant avec 3 modes de difficulté et de
+          React Quizz app utilisant l'API Open Trivia DB. Permet d'apprendre en s'amusant avec 3 modes de difficulté et
+          de
           nombreuses catégories.
         </div>
       </div>
     </a>
+  </section>
 
+  <h2 class="headline">Contact</h2>
 
+  <section class="section section--md form" id="contact">
+    <form>
+      <div class="form__input">
+        <label class="form__label">Nom / Entreprise</label>
+        <input type="text">
+      </div>
+      <div class="form__input">
+        <label class="form__label">Message</label>
+        <textarea></textarea>
+      </div>
+      <button>Envoyer</button>
+    </form>
   </section>
 
 </body>

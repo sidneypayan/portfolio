@@ -4,10 +4,18 @@
 
 .section--md {
 	width: 70%;
+
+	@media (max-width: 1209px) {
+		width: 90%;
+	}
 }
 
 .section--sm {
 	width: 60%;
+
+	@media (max-width: 1209px) {
+		width: 90%;
+	}
 }
 
 .hr {
@@ -16,4 +24,8 @@
 	border-top: 8px solid #ff346d;
 	width: 50%;
 	border-radius: 5px;
+
+	@media (max-width: 822px) {
+		margin-top: 4rem;
+	}
 }

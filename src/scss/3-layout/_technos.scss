@@ -1,6 +1,12 @@
 .technos {
-	display: flex;
-	justify-content: space-around;
+	display: grid;
+	justify-items: center;
+	gap: 4rem;
+	grid-template-columns: repeat(4, 1fr);
+
+	@media (max-width: 822px) {
+		grid-template-columns: repeat(2, 1fr);
+	}
 }
 
 // REACT
