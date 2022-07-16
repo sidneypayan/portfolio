@@ -1,0 +1,28 @@
+.theme {
+	display: flex;
+	align-items: center;
+	margin-left: 2rem;
+	width: 50px;
+	height: 20px;
+	padding: 0.2rem;
+	border-radius: 50px;
+	background-color: #eee;
+	cursor: pointer;
+}
+
+.theme--end {
+	justify-content: flex-end;
+}
+
+.theme__btn {
+	width: 18px;
+	height: 18px;
+	background-color: #161a3a;
+	border-radius: 50px;
+}
+
+.fa-eclipse {
+	color: #fff;
+	width: 25px;
+	height: 25px;
+}

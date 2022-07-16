@@ -1,5 +1,8 @@
-@use 'nav' as *;
-@use 'header' as *;
-@use 'about' as *;
-@use 'technos' as *;
-@use 'section' as *;
+@forward 'nav';
+@forward 'header';
+@forward 'about';
+@forward 'technos';
+@forward 'section';
+@forward 'theme';
+@forward 'projects';
+@forward 'footer';

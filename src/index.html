@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="./scss/main.scss">
   <title>Portfolio - Sidney Payan</title>
   <script src="./js/main.js" type="module"></script>
+  <script src="https://kit.fontawesome.com/071366ef18.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -18,11 +19,19 @@
       <li><a href="">Réalisations</a></li>
       <li><a href="">Technologies</a></li>
     </ul>
+
+    <div>
+      <div class="theme">
+        <div class="theme__btn"></div>
+      </div>
+    </div>
+
   </nav>
 
   <header class="header">
     <div class="header__title-container">
-      <h1 class="header__title">Bonjour, moi c'est Sidney Développeur web junior J'aime apprendre, créer, participer
+      <h1 class="header__title">Bonjour, moi c'est Sidney Développeur web junior J'aime apprendre, créer,
+        participer
       </h1>
     </div>
     <div class="header__img">
@@ -33,9 +42,9 @@
   <div class="hr"></div>
   <section class="section section--md about">
 
-
     <div class="about__img">
       <img src="./images/portrait.jpg" alt="portrait">
+      <button class="about__btn"><a href="mailto:sidney.payan@hotmail.com">Me contacter</a></button>
     </div>
 
     <div class="about__text"><span class="about__function">function aboutMe() {</span>
@@ -63,6 +72,71 @@
     </div>
 
   </section>
+
+  <h2 class="headline">Projects</h2>
+
+  <section class="section section--sm projects">
+
+    <a href="https://linguami.com" target="_blank">
+      <div class="projects__card"><img src="./images/linguami.png" alt="linguami">
+        <div class="projects__text">
+          Site de langue interactif développé sous Laravel. Compte utilisateur, traduction onclick avec l'API Yandex
+          dictionary, dictionnaire personnel.
+        </div>
+      </div>
+    </a>
+
+    <a href="https://startling-lily-96da81.netlify.app/" target="_blank">
+      <div class="projects__card"><img src="./images/movie-app.png" alt="movie app">
+        <div class="projects__text">
+          Movie app React utilisant The Movie Database API. Recherche de film, suggestions par
+          catégorie. L'app permet également d'ajouter des films aux sections films à voir ou déjà vus.
+        </div>
+      </div>
+    </a>
+
+    <a href="https://benevolent-cucurucho-331814.netlify.app/" target="_blank">
+      <div class="projects__card"><img src="./images/budget-app.png" alt="budget app">
+        <div class="projects__text">
+          Budget app React destinées aux travailleurs indépendants. Permet de calculer son revenu et ses dépenses
+          professionnelles et personnelles.
+        </div>
+      </div>
+    </a>
+
+    <a href="https://deloscab.com" target="_blank">
+      <div class="projects__card"><img src="./images/deloscab.png" alt="deloscab">
+        <div class="projects__text">
+          Site de chauffeurs sur la Côte d'Azur. Formulaire de demande de devis, carrousel avis clients.
+        </div>
+      </div>
+    </a>
+
+
+
+    <a href="https://clinquant-belekoy-1e2d0b.netlify.app/" target="_blank">
+      <div class="projects__card"><img src="./images/frenchappetit.png" alt="frenchappetit">
+        <div class="projects__text">
+          Site fictif d'un restaurant de cuisine française. Formulaire de réservation, menu dynamique, utilisation de
+          l'API Mapbox.
+        </div>
+      </div>
+    </a>
+
+
+
+    <a href="https://chipper-florentine-b29fc2.netlify.app/" target="_blank">
+      <div class="projects__card"><img src="./images/quizz-app.png" alt="quizz app">
+        <div class="projects__text">
+          Quizz app utilisant l'API Open Trivia DB. Permet d'apprendre en s'amusant avec 3 modes de difficulté et de
+          nombreuses catégories.
+        </div>
+      </div>
+    </a>
+
+
+  </section>
+
 </body>
 
 </html>
