@@ -53,7 +53,7 @@
 91D:\webdev\My Sites\portfolio\node_modules\caniuse-lite\data\features\css-backdrop-filter.js132974432296631367 0
 88D:\webdev\My Sites\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\foo.js132974432286530593 0
 93D:\webdev\My Sites\portfolio\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map132974432286410493 0
-33D:\webdev\My Sites\portfolio\dist133044249737234665 1
+33D:\webdev\My Sites\portfolio\dist133104898186886900 1
 78D:\webdev\My Sites\portfolio\node_modules\@parcel\transformer-babel\lib\jsx.js132974432284187533 0
 39D:\webdev\My Sites\portfolio\.gitignore133023465898977784 0
 70D:\webdev\My Sites\portfolio\node_modules\posthtml-render\package.json132974432279423978 0
@@ -79,7 +79,7 @@
 71D:\webdev\My Sites\portfolio\node_modules\css-tree\lib\walker\create.js132974432286930970 0
 93D:\webdev\My Sites\portfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1132974432286330425 0
 72D:\webdev\My Sites\portfolio\node_modules\type-fest\source\value-of.d.ts132974432291301991 0
-32D:\webdev\My Sites\portfolio\src133044248890811938 1
+32D:\webdev\My Sites\portfolio\src133044258140820025 1
 128D:\webdev\My Sites\portfolio\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js132974432293809858 0
 69D:\webdev\My Sites\portfolio\node_modules\nan\nan_converters_43_inl.h132974432282632405 0
 75D:\webdev\My Sites\portfolio\node_modules\htmlnano\lib\modules\minifyCss.js132974432284832734 0
@@ -87,7 +87,7 @@
 71D:\webdev\My Sites\portfolio\node_modules\css-tree\lib\parser\create.js132974432286430504 0
 82D:\webdev\My Sites\portfolio\node_modules\css-tree\lib\syntax\node\UnicodeRange.js132974432296513391 0
 81D:\webdev\My Sites\portfolio\node_modules\css-tree\lib\syntax\node\Parentheses.js132974432295676698 0
-44D:\webdev\My Sites\portfolio\src\favicon.png133044249644190334 0
+44D:\webdev\My Sites\portfolio\src\favicon.png133044258140739948 0
 54D:\webdev\My Sites\portfolio\node_modules\sass\sass.js132974433345077996 0
 83D:\webdev\My Sites\portfolio\node_modules\entities\lib\generated\decode-data-xml.js132974432280354819 0
 85D:\webdev\My Sites\portfolio\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map132974432285930051 0
@@ -4288,7 +4288,7 @@
 57D:\webdev\My Sites\portfolio\node_modules\.bin\terser.cmd132974432328479460 0
 57D:\webdev\My Sites\portfolio\node_modules\.bin\terser.ps1132974432328479460 0
 57D:\webdev\My Sites\portfolio\dist\budget-app.722a9c2f.png133044248909785323 0
-54D:\webdev\My Sites\portfolio\dist\favicon.0f1069a7.png133044249737224654 0
+54D:\webdev\My Sites\portfolio\dist\favicon.0f1069a7.png133104898186716403 0
 60D:\webdev\My Sites\portfolio\dist\frenchappetit.379d5423.png133044248912638800 0
 50D:\webdev\My Sites\portfolio\dist\git.2158f024.jpg133044248912238438 0
 51D:\webdev\My Sites\portfolio\dist\hero.22dc911d.jpg133044248912468647 0
